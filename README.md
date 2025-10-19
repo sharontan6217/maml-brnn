@@ -1,1 +1,1 @@
-a model as a support for a master candidate.
+a model as a reference for a master candidate.
